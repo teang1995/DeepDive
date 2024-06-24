@@ -52,7 +52,3 @@ regular_formatting = [
     7,
     8,
 ]
-
-
-def test(num1, num2):
-    return None
